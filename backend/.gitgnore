@@ -1,0 +1,4 @@
+node_modules
+.env
+senhas.db
+*.log
