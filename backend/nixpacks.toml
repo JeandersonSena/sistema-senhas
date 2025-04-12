@@ -1,0 +1,4 @@
+# Arquivo: backend/nixpacks.toml
+
+# Define a fase de instalação (build)
+[phases.install]os com múltiplas pastas como `frontend` e `backend` no mesmo repositório) é criar um arquivo de configuração `railway.json` na **raiz** do seu repositório.
